@@ -1,4 +1,4 @@
-FROM nginx:1.27-alpine
+FROM nginx:alpine
 
 COPY start.sh /usr/local/bin/
 
